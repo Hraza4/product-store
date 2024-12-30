@@ -54,7 +54,7 @@
 
    - Install frontend dependencies:
      ```bash
-     cd ../frontend
+     cd ./frontend
      npm install
      ```
 
@@ -74,7 +74,7 @@
 
    - Start the frontend development server:
      ```bash
-     cd ../frontend
+     cd ./frontend
      npm run dev
      ```
 
